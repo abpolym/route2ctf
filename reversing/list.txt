@@ -1,0 +1,174 @@
+#solves #writeups link description-keywords (excluding strace, gdb-peda, ltrace)
+45 3 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/reverse/r0ops Binary x86-64 pwntools anti-debug obfuscation rop
+9 0 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/reverse/slimming ?
+4 0 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/reverse/combaby
+6 0 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/reverse/compiler
+14 0 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/reverse/pipe-worker
+2 1 https://github.com/ctfs/write-ups-2015/tree/master/32c3-ctf-2015/reversing/carder-500 dvb-t firmware
+30 1 https://github.com/ctfs/write-ups-2015/tree/master/32c3-ctf-2015/reversing/ey-or-150 Binary x86-64 elymas
+49 2 https://github.com/ctfs/write-ups-2015/tree/master/32c3-ctf-2015/reversing/flash-300 firmware python
+17 2 https://github.com/ctfs/write-ups-2015/tree/master/32c3-ctf-2015/reversing/libdroid-150 Android Hooking Obfuscation Native
+14 1 https://github.com/ctfs/write-ups-2015/tree/master/32c3-ctf-2015/reversing/pica-300 Qemu Binary Kernel ACPI
+5 2 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/0ldskoo1 Xbox ISO XQEMU Binary IDA Binwalk patch
+78 9 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/danklang Danklang Optimization Greentext Esoteric math
+434 3 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/flag-finder Broken-Chall Binary
+68 3 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/hello-joe Binary x86-64 patch IDA Hex-Rays Z3 Checks
+6 2 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/nobranch x86-64 Binary Angr input=flag z3 boolector
+233 5 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/the-real-flag-finder x86-64 Binary XOR IDA Breakpoint memcmp rabin input=flag
+43 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/asis-hash x86-64 Binary input=flag anti-debug
+7 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/exchange x86-64 Binary encrypted-file
+45 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/fake x86-64 Binary math
+85 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/license x86-64 Binary patch math z3 xor
+2 0 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/brain
+0 0 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/gasis
+39 5 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/reverse/dark x86-64 Binary encrypted-file IDA xor
+121 4 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/reverse/keylead x86-64 Binary patch gdb-script Hex-Rays
+58 5 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/reverse/leach x86-64 Binary IDA patch IDA-DIF Hex-Rays
+57 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/reverse/selfie x86-64 Binary Hidden
+58 4 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/reverse/tera x86-64 Binary xor decode 
+6 0 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/reverse/asis-card
+4 3 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/reverse/camlmaze i386 caml
+12 2 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/reverse/freak i386 Binary Windows C++ XOR Crypto RSA
+32 2 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/reverse/securecom Binary Windows .net patch anti-debug
+4 0 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/reverse/crappy_oj
+216 6 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/reversing/haymarket cobold png punch-card dec-029
+57 4 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/reversing/wellington x86-64 Binary prolog
+27 1 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/reversing/community-college mips-32 c++
+9 1 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/reversing/oak-grove 3DSX IDA obfuscation virtualmachine homebrew
+21 3 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/reversing/sullivan-square rubinius ruby rbx patch trie
+- 0 https://github.com/ctfs/write-ups-2015/tree/master/break-in-ctf-2015/reverse/breakingame
+- 0 https://github.com/ctfs/write-ups-2015/tree/master/break-in-ctf-2015/reverse/breakit
+- 0 https://github.com/ctfs/write-ups-2015/tree/master/break-in-ctf-2015/reverse/jaggipalace
+- 0 https://github.com/ctfs/write-ups-2015/tree/master/break-in-ctf-2015/reverse/regcomp
+23 2 https://github.com/ctfs/write-ups-2015/tree/master/bsides-vancouver-ctf-2015/re/detent x86-64 Binary
+29 2 https://github.com/ctfs/write-ups-2015/tree/master/camp-ctf-2015/reversing/keycheck-200 x86-64 Binary RSA unpack hidden python
+10 0 https://github.com/ctfs/write-ups-2015/tree/master/camp-ctf-2015/reversing/flagbox-200
+3 0 https://github.com/ctfs/write-ups-2015/tree/master/camp-ctf-2015/reversing/flagbox-onsite-150
+9 0 https://github.com/ctfs/write-ups-2015/tree/master/camp-ctf-2015/reversing/o1dar-500
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/reversing/arc4-stranger Argonaut-32 Binary IDA obfuscation
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/reversing/dodocrackme2 Android native obfuscation IDA
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/reversing/oemu x86-64 Binary subleq obfuscation c++
+? 4 https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/reversing/pirate-danbi x86-64 IDA xor exploit
+144 2 https://github.com/ctfs/write-ups-2015/tree/master/confidence-ctf-teaser-2015/reverse/so-easy-100 i386 Binary hooking
+214 5 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/reverse/ftp-300 x86-64 Binary ftp IDA Hex-Rays higher32 z3 r2
+180 4 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/reverse/hacking-time-200 iNES-ROM fceux z3 hardware
+96 5 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/reverse/wyvern-500 x86-64 Binary IDA afl-fuzz c++ intel-pin Hex-Rays angr
+3 0 https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/reversing/cookie-maze
+3 0 https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/reversing/pwning-a-locked-container-plc
+7 0 https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/reversing/return-of-the-wieners
+11 0 https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/reversing/wyvern2
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/cyber-security-challenge-2015/reverse-engineering/crackme x86-64 Binary ld_preload
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/cyber-security-challenge-2015/reverse-engineering/reverse-that-binary x86-64 Binary hardcoded
+? 4 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/reverse/entry-language-100 x86-64 Binary IDA patch anti-debug
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/reverse/lbs-checker-300 .NET 32 Windows Binary
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/reverse/link-and-switch-200 x86-64 Binary input=flag anti-debug IDA
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/reverse/master-of-reversing-400 x86-64 Binary input=flag xor entropy
+? 4 https://github.com/ctfs/write-ups-2015/tree/master/defcon-qualifier-ctf-2015/reverse/access-control i386 Binary IDA hardcoded
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/defcon-qualifier-ctf-2015/reverse/klug ARM-32 Binary binary-tree klee llvm patch
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/defcon-qualifier-ctf-2015/reverse/knockedupd x86-64 Binary port-knocking IDA
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/defcon-qualifier-ctf-2015/reverse/pr0dk3y x86-64 Binary
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/defcon-qualifier-ctf-2015/reverse/shitcpu x86-64 Binary
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/defcon-qualifier-ctf-2015/reverse/scrambler
+41 1 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/reversing/rev100 x86-64 Binary exploit pintool
+36 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/reversing/rev200 python Binary uncompyle2 rsa pickle easypythondecompiler exploit
+9 1 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/reversing/rev300 Renesas-32 Binary qemu ld_preload
+103 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/reversing/rev50 i386 .net Windows Binary reflector reflectix patch telerik-justdecompile
+2 1 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/reversing/rev500 virtualbox-image virtualdisk-image virtualimage-encryption i386 Windows vboxdie-cracker john-the-ripper .net
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/reversing/rev400 blackberry
+65 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/rev/decode-it ARM-32 Binary ld_preload retdec
+159 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/rev/ekogift i386 Windows BInary retdec IDA
+66 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/rev/mov i386 Binary hidden
+27 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/rev/reversing-the-apc-cache APC-PHP phpbrew vlc azdgcrypt crypto
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/reverse/huffy i386 Binary huffman-tree exploit
+16 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/reversing/blue-freeze i386 Binary exploit
+130 4 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/reversing/gaychal php
+24 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/reversing/ugly-bin Mach-O-64 Binary cisc
+17 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/reversing/virtual-virtue Mach-O-64 Binary polymorph
+71 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/reversing/secret-library x86-64 Binary
+21 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/reversing/solution-checker i386 Windows Binary
+15 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/reversing/zoo x86-64 Binary xor z3
+100 1 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/reversing/easy-math i386 Binary math
+83 2 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/reversing/goto obfuscation x86-64 Binary IDA binwalk
+11 2 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/reversing/i-like-to-move-it i386 Binary pintool
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/reverse/npc x86-64 Binary Hex-Rays IDA c++ qira nurikabe
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/reverse/risky RISC-V-64 Binary z3
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/reverse/vcopy
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/ibteam-blackvalentine-ctf-2015/reverse/reverse-1
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/ibteam-blackvalentine-ctf-2015/reverse/reverse-2
+? 7 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/anti-hexray x86-64 Binary IDA
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/CFT Android
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/CryptoWorld
+? 5 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/insideout i386 Windows Binary xor IDA
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/NTMaze i386 Binary
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/Panic i386 Windows Binary kbdclass
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/reversing/Reversing i386 Windows Binary png
+43 1 https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/reversing/swordfish flash showmycode
+12 2 https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/reversing/swordfish-passwd hardcoded patch des-128
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-teaser-2015/baby-haskell x86-64 Binary IDA patch defuse.ca
+14 2 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/digital-circuit-250 vvp-verilog-hdl bleyer-icarus
+164 2 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/how-to-use-30 Windows Binary angr
+7 2 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/impossible-150 i386 Binary math
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/money-game-200 i386 Binary patch binjitsu rand exploit
+? 4 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/simple-hash-200 i386 Binary angr IDA crypto math
+140 3 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/this-program-cannot-run-in-dos-mode-80 DOS r2 IDA
+0 0 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/reverse/encrypted-500
+72 1 https://github.com/ctfs/write-ups-2015/tree/master/nuit-du-hack-ctf-quals-2015/reverse/clark-kent i386 Windows Binary IDA HT-Editor ld_preload
+90 2 https://github.com/ctfs/write-ups-2015/tree/master/nuit-du-hack-ctf-quals-2015/reverse/crackme-prime i386 Binary IDA hidden hardcoded keygen
+27 1 https://github.com/ctfs/write-ups-2015/tree/master/nuit-du-hack-ctf-quals-2015/reverse/mass-surveillance-software i386 Windows Binary protection-id ollydbg crunch-wordlist
+49 1 https://github.com/ctfs/write-ups-2015/tree/master/nuit-du-hack-ctf-quals-2015/reverse/superman i386 Binary IDA
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/reversing-1 Mach-O-64 python ?
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/reversing-2 i386 Windows Binary ollydbg anti-debug IDA c++
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/reversing-4 x86-64 Binary anti-debug
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/reversing-5 x86-64 Binary exploit
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/reversing-3
+112 2 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/reverse/capture-the-bool i386 Windows Binary
+52 1 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/reverse/static i386 Windows Binary
+57 3 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/reverse/switchy i386 Binary IDA xor patch
+37 1 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/reverse/advanced-risque-machine i386 Binary IDA xor odaweb arm qemu (superlong)
+70 3 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/reversing/clifford x86-64 Binary Hex-rays math IDA magic-hexagonA
+37 2 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/reversing/cryptoserv tcpdump i386 Binary Hex-rays xtea crypto customvm
+44 5 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/reversing/jumble-mumble i386 Binary rot math
+27 4 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/reversing/re-gex python regex sat-solving pycryptosat z3 math
+0 0 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/reversing/angela-merkel
+17 1 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/reversing/am-i-cheating gpg qemu x86-64 Binary panda IDA
+196 3 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/reversing/crack-me-if-you-can Android genymotion
+5 1 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/reversing/exceptionally openwrt ipk mips binary hidden c++ unwind-tables
+50 2 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/reversing/john-the-packer i386 Binary pintool packer z3
+108 3 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/reversing/reversemeplz i386 Binary rot z3
+21 6 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/reverse/crack-me i386 Windows Binary packed upx IDA xor
+57 5 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/reverse/not-sequence i386 Binary IDA
+3 2 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/reverse/old-driver i386 Windows hooking
+108 5 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/reverse/tank i386 Windows Binary vc6.0 peid
+19 4 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/reverse/vb i386 Windows Binary ollydbg vb-decompiler
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/reverse/school-incident-150 md5-crack
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/reverse/strange-program-300 pascal ideone
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/reverse/parallel-comparator-200 C xor
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/reverse/secret-galaxy-300 x86-64 i386 Windows Binary
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/reverse/secret-string-400 Javascript customvm
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/reverse/simple-check-100 i386 x86_64 Windows Binary
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/reverse/whats-the-hell-500 c++ math
+175 8 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/binary/exec-dmesg ISO-9660 qemu virtualbox dmesg kmsg
+60 3 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/binary/gdb-remote-debugging i386 Binary xor gdb-remote-protocol
+18 4 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/binary/individual-elebin 32 Binary (multiple) Renesas-64 mips-32 i386 arm-32 nec-32 renesas-32 sparc-32 motorola-rce-32 axis-cris-32 avr-8-bit-32 IDA cross-compiler xgcc burning-asm cross-docker-image qemu
+26 2 https://github.com/ctfs/write-ups-2015/tree/master/th3jackers-ctf-2015/reverse/rev100 i386 Binary xor 
+9 0 https://github.com/ctfs/write-ups-2015/tree/master/th3jackers-ctf-2015/reverse/rev200
+16 0 https://github.com/ctfs/write-ups-2015/tree/master/th3jackers-ctf-2015/reverse/rev300
+44 1 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/rev/selftest x86-64 Binary IDA
+16 1 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/rev/whitebox_crypto x86-64 Binary xtea crypto
+0 0 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/rev/b0rked_screens4ver
+0 0 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/rev/qqqshit
+2 0 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/rev/quine
+13 0 https://github.com/ctfs/write-ups-2015/tree/master/uiuctf-2015/reverse/refun
+3 0 https://github.com/ctfs/write-ups-2015/tree/master/uiuctf-2015/reverse/rise
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/uiuctf-2015/reverse/the-one-that-solves-itself
+11 0 https://github.com/ctfs/write-ups-2015/tree/master/uiuctf-2015/reverse/uiucd
+78 4 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/reverse/interstellar x86-64 Binary patch xnor IDA anti-debug math
+37 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-contest-10/reverse/re200 i386 Windows Binary
+17 2 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-contest-10/reverse/re300 i386 Windows Binary c++ ollydbg hideod ollyadvanced anti-debug z3 IDA IDAStealth
+7 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-contest-10/reverse/re400 i386 Windows Binary xor anti-debug
+81 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/reverse/dong-van x86-64 Binary customencoding
+31 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/reverse/ha-long i386 Windows Binary (Same challenge as whitehat-contest re300)
+4 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/reverse/hue .net 32 (writeup says 64) mfc-library
+9 0 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/reverse/ha-noi
+7 0 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/reverse/my-son
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/reverse/trang-an
