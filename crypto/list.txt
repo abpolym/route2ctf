@@ -1,0 +1,218 @@
+#solves #writeups description-keywords (excluding pycrypto, itertools, modinv)
+2 1 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/crypto/grebeginner
+58 1 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/crypto/oldcrypto poly-alphabetic substitution cipher non-uniform shift
+13 2 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/crypto/rsa-quine rsa chinese-reminder nopadding msieve
+15 2 https://github.com/ctfs/write-ups-2015/tree/master/0ctf-2015/crypto/satbeginner 3-sat boolean-satistiability-problem treengeling pycosat
+54 4 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/crypto/dub-key custom-signing
+16 5 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/crypto/fibbed diffie-hellman montgomery-ladder sage aes pcap pisano pohlig-hellman
+94 4 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/crypto/randbox multiple caesar cyclic-shift substitution chain-cipher vigenere permutation-cipher cbc
+20 2 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/crypto/wob-key custom-signing
+18 2 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/crypto/wob-key-hard
+11 2 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/10-sed des
+47 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/bodu rsa boneh-durfee
+11 2 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/giloph tls rsa diffie-hellmann
+21 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/honeywall rsa?
+4 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/RSASR rsa emirp yafu
+27 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/simple xor
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/crypto/the-last-survivor
+22 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/crypto/angler custom
+3 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/crypto/falsecrypt ntru
+21 2 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/crypto/golden-metal goldwasser-micali msieve gmpy blum
+102 5 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/crypto/simple-algorithm custom
+20 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/crypto/cross-check rsa fermat gmpy
+6 0 https://github.com/ctfs/write-ups-2015/tree/master/asis-quals-ctf-2015/crypto/qrypt
+3 1 https://github.com/ctfs/write-ups-2015/tree/master/backdoor-ctf-2015/crypto/rand
+31 3 https://github.com/ctfs/write-ups-2015/tree/master/backdoor-ctf-2015/crypto/rsalot rsa rsatool factor
+13 1 https://github.com/ctfs/write-ups-2015/tree/master/backdoor-ctf-2015/crypto/bbad
+25 3 https://github.com/ctfs/write-ups-2015/tree/master/backdoor-ctf-2015/crypto/rsanne rsa mersenne-prime rsatool
+1 1 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/crypto/backdoor 
+16 1 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/crypto/redundant-code
+86 3 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/crypto/warmup rsa wiener-attack egcd openssl pablocelayes-solver
+80 3 https://github.com/ctfs/write-ups-2015/tree/master/bctf-2015/crypto/weak-enc rsa python binjitsu lzw chosen-plaintext side-channel otpbase xor
+90 6 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/crypto/wood-island elgamal linear-congruence wolfram-math
+33 5 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/crypto/airport timing-oracle python square-multiply custom discrete-logarithm-conjecture egcd fermat modular-inverse lagrange-theorem
+34 1 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/crypto/bowdoin rsa recovery sage coppersmith lattice-reduction
+47 3 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/crypto/orient-heights elgamal
+10 2 https://github.com/ctfs/write-ups-2015/tree/master/boston-key-party-2015/crypto/wonderland elliptic-curve-discrete-logarithm twist-attack montgomery-ladder factor baby-step-giant-step sage
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/break-in-ctf-2015/crypto/substitution substitution
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/break-in-ctf-2015/crypto/numbero
+4 3 https://github.com/ctfs/write-ups-2015/tree/master/bsides-vancouver-ctf-2015/crypto/ts-sci-nz keypad
+17 2 https://github.com/ctfs/write-ups-2015/tree/master/bsides-vancouver-ctf-2015/crypto/matasano q1manytimepad cribtastic xortool
+? 5 https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/crypto/icbm exploit cbc xor aes
+47 3 https://github.com/ctfs/write-ups-2015/tree/master/confidence-ctf-teaser-2015/crypto/mac-hacking-150 hmac hash-length-extension merkle-damgard hashpump php
+97 2 https://github.com/ctfs/write-ups-2015/tree/master/confidence-ctf-teaser-2015/crypto/power-level-50 c custom
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/confidence-ctf-teaser-2015/crypto/the-real-mac-hacking-400
+597 5 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/notesy-100 substitution
+824 4 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/zer0-day-50
+26 3 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/bricks-of-gold-500 custom cbc xor
+987 4 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/ones_and_zer0s-50
+13 1 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/punchout-200 ebcdic punch-card feistel xor
+753 7 https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/whiter0se-50 substitution quipqiup yarp rumkin-solver
+6 1 https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/cryptography/slabs-of-platinum sage aes factordb solve500
+14 0 https://github.com/ctfs/write-ups-2015/tree/master/csaw-finals-ctf-2015/cryptography/check-plz
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/cyber-security-challenge-2015/cryptography/crack-the-hash hash-cracking
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/cyber-security-challenge-2015/cryptography/guess-the-algorithm john linkedin-hash hash-cracking
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/cyber-security-challenge-2015/cryptography/one-way aes cbc rainbow xor ecb padding-oracle-attack poodle
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/crypto/11-50 stream-cipher xor
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/crypto/custom-function-engineering-300 custom php constraint
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/crypto/no-crypto-200 aes cbc
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/dctf-2015/crypto/things-you-were-not-able-to-see-in-the-past-100
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/all-zobs-fault rsa
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/bigger-is-better rsa
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/black-table
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/cave-johnson vigenere mygeocaching-solver rumkin-solver
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/h4sh3d hash-cracking custom
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/hardwood-floors
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/i-love-sleeping polybius
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/julius-save-me caesar xarg-solver rumkin-solver
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/known-plaintext-1
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/known-plaintext-2
+? 1 https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/known_plaintext_3_300.md substitution known-plaintext
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/matrices hill-cipher known-plaintext sage xor
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/misaka-mikoto railfence/gun rumkin-solver
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/respiratory-sinus-arrythmia rsa wiener-attack pablocelayes-solver
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/xor xor
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/yves-fave-pic hidden
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/cryptography/zobs-password
+160 9 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/crypto/cry200 xor shift
+30 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/crypto/cry100 vigenere beaufort guballa-solver
+38 5 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/crypto/cry300 encrypted-vbox rot13 sinfocol-cracker
+202 5 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/crypto/cry50 skytale dcode-solver cryptool
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-ctf-2015/crypto/cry400
+206 2 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/crypto/base-unknown base32 base64-python
+181 3 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/crypto/classic-crypto rot13 morse
+33 1 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/crypto/perfect-security xor
+66 4 https://github.com/ctfs/write-ups-2015/tree/master/ekoparty-pre-ctf-2015/crypto/rsa-2070 rsa factordb egcd modinv rsatool
+? 5 https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/crypto/knockers mac merkle-damgard hash-length-extension iagox-hash-extender-solver hashpump
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/crypto/nikoli hill-cipher sage
+? 3 https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/crypto/mtgo
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/ghost-in-the-shellcode-2015/crypto/vig128 block-cipher vigenere
+254 4 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/crypto/vigenere-1 vigenere chosen-plaintext
+245 3 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/crypto/vigenere-2 known-plaintext
+206 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/crypto/vigenere-3 kasiski frequency-analysis
+14 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-dat-kiwi-ctf-2015/crypto/vigenere-4 autokey-cipher
+20 2 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/crypto/salt nacl-box nonce xsalsa20 xor
+42 2 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/crypto/checkcheckcheck xor scryptos roputils random
+111 3 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/crypto/creative-cheating rsa pcap factordb rsatool
+33 1 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/crypto/formular-generator nist rng dualecdbrg
+9 0 https://github.com/ctfs/write-ups-2015/tree/master/hack-lu-ctf-2015/crypto/campus-id-sso
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hackcon-2015/crypto/IdLoveToTurnYouOn enigma enigmaco-simulator
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hackcon-2015/crypto/StealTheDiamond xor
+44 1 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/crypto/nodistinguisher xor base32
+7 1 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/crypto/racer rc4
+24 1 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/crypto/radorium rsa scryptos
+500 4 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/crypto/yodigga diffie-hellman
+4 0 https://github.com/ctfs/write-ups-2015/tree/master/hackover-ctf-2015/crypto/fuckaduck
+8 1 https://github.com/ctfs/write-ups-2015/tree/master/haxdump-ctf-2015/crypto/all-of-them
+48 1 https://github.com/ctfs/write-ups-2015/tree/master/haxdump-ctf-2015/crypto/forget-salting-and-ship-it-anyway
+1 1 https://github.com/ctfs/write-ups-2015/tree/master/haxdump-ctf-2015/crypto/handwritten
+6 1 https://github.com/ctfs/write-ups-2015/tree/master/haxdump-ctf-2015/crypto/more-of-them
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/crypto/guess
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/crypto/poooooooow
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/crypto/rsabin rsa cado-nfs modular-sqrt
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/crypto/simple aes cfb xor
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/hitcon-ctf-quals-2015/crypto/random
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/ibteam-blackvalentine-ctf-2015/crypto/crypto-1 multiple substitution navajo
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/ibteam-blackvalentine-ctf-2015/crypto/crypto-2 multi-tap abc dcode-solver
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/ibteam-blackvalentine-ctf-2015/crypto/crypto-4
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/ibteam-blackvalentine-ctf-2015/crypto/crypto-3
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/2x0r xor xortool
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/agents rsa chinese-remainder
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/cryptic-crypto substitution quipqiup numpy
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/diary xor
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/entropy rsa euclid common-prime
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/farm-animals pigpen-cipher
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/numb3rs
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/numeric
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/rot13 rot13
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/rsa rsa
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/rsa3 rsa bruteforce
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/sausages
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/icectf-2015/cryptography/alternate-rsa
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/crypto/Gaebale-in-panic
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/crypto/RSA
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/inc0gnito-ctf-2015/crypto/WhoAreYou
+13 2 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/crypto/alice-game-250 oracle elgamal sage discrete-logarithm pohlig-hellman chinese-remainder
+3 1 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/crypto/LCG-sign-400 linear-congruential dsa
+21 2 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/crypto/regrettable-ecc-200 aes cbc elliptic-curve weierstrass sage
+92 3 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/crypto/signer-and-verifier-100 custom-signing rsa
+436 3 https://github.com/ctfs/write-ups-2015/tree/master/mma-ctf-2015/crypto/smart-cipher-system-90 multiple shift lookup-table chaining xor custom
+178 4 https://github.com/ctfs/write-ups-2015/tree/master/nuit-du-hack-ctf-quals-2015/crypto/game-of-life xor custom stream-cipher prng
+10 3 https://github.com/ctfs/write-ups-2015/tree/master/nuit-du-hack-ctf-quals-2015/crypto/weshgrow hmac custom hash-cracking hash-length-extension
+? 5 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/crypto-1 custom
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/crypto-2 run-length-encoding
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/crypto-3
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/crypto-4
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/nullcon-hackim-2015/crypto-5
+46 1 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/crypto/bach musical-cryptogram
+15 1 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/crypto/egregiously-catastrophic-bifurcation ecb
+13 1 https://github.com/ctfs/write-ups-2015/tree/master/opentoall-ctf-2015/crypto/enigma
+78 6 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/crypto/curious rsa wiener-attack pablocelayes-solver
+136 7 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/crypto/strength egcd rsa identical-moduli attacksrsa.pdf
+55 2 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/crypto/lazy merkle-hallman knapsack lll-reduction sage
+15 1 https://github.com/ctfs/write-ups-2015/tree/master/plaidctf-2015/crypto/parlor2 rsa sage dsa
+132 3 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/crypto/exorcise xor
+29 2 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/crypto/3doges2 tripledes go
+0 1 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/crypto/even-the-server rsa
+72 2 https://github.com/ctfs/write-ups-2015/tree/master/polictf-2015/crypto/prophet-said rot13 custom
+8 1 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/crack_this playfair rumkin-solver
+33 1 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/haunted_1s
+41 1 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/one_more_headache substitution
+119 2 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/roman rot23 dcode-solver
+18 1 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/rubies_on_rails railfence keypad
+43 1 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/the_impossible shift
+28 2 https://github.com/ctfs/write-ups-2015/tree/master/pragyan-ctf-2015/crypto/weak_rsa rsa fermat rsatool
+23 2 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/crypto/asm dfs
+29 4 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/crypto/decode-the-file n0fate-pydes base64 hidden
+30 3 https://github.com/ctfs/write-ups-2015/tree/master/rctf-quals-2015/crypto/x-xor-md5 xor hashcat hash-cracking
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/aGFtcHduZXIz recon
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/Cipherception multiple encoding base64 atbash caesar-shift affine
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/coney rabbit-cipher
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/Crib%20Drag xor
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/I%20Like%20Bacon morse-code bacon-cipher
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/MD5 hash-cracking hashkiller
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/MD5_2 hash-cracking hashkiller
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/sCTF-2015/crypto/qes oeis fibonacci pentagonal
+? 5 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/crypto/affine-cipher-100 affine
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/crypto/bypassing-the-snake-400
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/crypto/crypto-lego-500
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/crypto/super-digest-4-400 hash-cracking
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/crypto/super-digest-4-strong-500
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/crypto/3-bits-rgb-500 xor
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/crypto/ancient-message-300 custom
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/crypto/cyber-criminal-200 cardan-grill-cipher
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/crypto/lazy-cryptanalyst-100 substitution quipqiup
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-winter-2015/crypto/master-of-guesswork-200
+199 5 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/crypto/decrypt-it base64
+54 3 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/crypto/find-the-prime-numbers paillier-cipher rsa
+196 8 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/crypto/unzip-the-file pkcrack encrypted-zip fcrackzip
+5 0 https://github.com/ctfs/write-ups-2015/tree/master/seccon-quals-ctf-2015/crypto/please-give-me-md5-collision-files
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/securinets-ctf-2015/crypto/matrix-everywhere
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/securinets-ctf-2015/crypto/card-games
+? 0 https://github.com/ctfs/write-ups-2015/tree/master/securinets-ctf-2015/crypto/decrypt-me
+49 3 https://github.com/ctfs/write-ups-2015/tree/master/th3jackers-ctf-2015/crypto/cry100 custom encoding
+10 1 https://github.com/ctfs/write-ups-2015/tree/master/th3jackers-ctf-2015/crypto/cry200 substitution mygeocaching-solver vigenere
+11 2 https://github.com/ctfs/write-ups-2015/tree/master/th3jackers-ctf-2015/crypto/cry300 xor hash-cracking john md5db
+? 6 https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/crypto/crypto-100 rsa sage factor pyprimes factorlookup egcd metadecryptor rsatool
+? 4 https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/crypto/crypto-200 aes cbc xor known-plaintext
+? 1 https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/crypto/crypto-300 jxplorer snakeoil rsa cpython g0tmi1k-debian-ssh
+? 2 https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/crypto/crypto-500 base64
+43 2 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/crypto/bad_apple hmac merkle-damgard hash-length-extension hashpump
+15 1 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/crypto/pudel aes cbc custom padding-oracle xor python-paddingoracle
+13 1 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/crypto/turbo aes cbc crime breach
+4 1 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/crypto/really_slow_arithmetic rsa dan-boneh factor asn1decode
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/tum-ctf-teaser-2015/crypto/linear
+34 2 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/carry lsfr custom
+9 1 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/cpkc lll-reduction ntru sage
+43 1 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/gostfuscator perl
+144 2 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/lcg custom stream-cipher xor gamma linear-congruential-generator prng lcg egcd
+100 1 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/rsa rsa wiener-attack
+28 1 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/russian-doll encrypted-iso efs-recovery
+1 0 https://github.com/ctfs/write-ups-2015/tree/master/volgactf-quals-2015/crypto/rusty-idea
+17 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-contest-10/crypto/crypto100
+8 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-contest-10/crypto/crypto200 shamir-secret-sharing lagrange-polynomial
+11 0 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-contest-10/crypto/crypto400
+6 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/cryptography/buon-ma-thuot
+18 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/cryptography/hoi-an
+12 1 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/cryptography/tam-dao
+0 0 https://github.com/ctfs/write-ups-2015/tree/master/whitehat-grand-prix-qualification-2015/cryptography/da-nang
