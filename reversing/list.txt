@@ -14,7 +14,7 @@
 434 3 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/flag-finder Broken-Chall Binary
 68 3 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/hello-joe Binary x86-64 patch IDA Hex-Rays Z3 Checks
 6 2 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/nobranch x86-64 Binary Angr input=flag z3 boolector
-233 5 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/the-real-flag-finder x86-64 Binary XOR IDA Breakpoint memcmp rabin input=flag
+233 5 https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/reversing/the-real-flag-finder x86-64 Binary XOR IDA gdb-peda r2 input=flag anti-debug
 43 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/asis-hash x86-64 Binary input=flag anti-debug
 7 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/exchange x86-64 Binary encrypted-file
 45 1 https://github.com/ctfs/write-ups-2015/tree/master/asis-finals-ctf-2015/reverse/fake x86-64 Binary math
