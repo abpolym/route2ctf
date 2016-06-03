@@ -1,5 +1,5 @@
 | #solves | #writeups | link | #keywords |
-|----------|:-------------:|:------:|-------:|
+|:---:|:---:|:-------------------|:------------------|
 | 987 | 4   | [csaw-ctf-2015/crypto/ones_and_zer0s-50](https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/ones_and_zer0s-50) |
 | 824 | 4   | [csaw-ctf-2015/crypto/zer0-day-50](https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/zer0-day-50) |
 | 753 | 7   | [csaw-ctf-2015/crypto/whiter0se-50](https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/whiter0se-50) | substitution quipqiup yarp rumkin-solver |
